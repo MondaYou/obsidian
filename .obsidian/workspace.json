@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/ANUBIS/T-SIDE/水下夹B.md",
+                "file": "CS/序言.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "水下夹B"
+              "title": "序言"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/ANUBIS/T-SIDE/水下夹B.md",
+                "file": "CS/序言.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "水下夹B 的反向链接列表"
+              "title": "序言 的反向链接列表"
             }
           },
           {
@@ -194,8 +194,17 @@
   },
   "active": "416cb4bfa471d35a",
   "lastOpenFiles": [
-    "CS/ANUBIS/CT-SIDE/常规默认.md",
+    "CS/NUKE/T-SIDE/科比布莱恩特假外真内千早爱音.md",
+    "CS/NUKE/CT-SIDE/常规默认.md",
+    "CS/MIRAGE/T-SIDE/B爆弹.md",
+    "CS/MIRAGE/CT-SIDE/常规默认.md",
+    "CS/INFERNO/T-SIDE/B爆弹.md",
+    "CS/INFERNO/CT-SIDE/常规默认.md",
+    "CS/DUSTII/CT-SIDE/常规默认.md",
+    "CS/CACHE/T-SIDE/占位.md",
+    "CS/CACHE/CT-SIDE/常规默认.md",
     "CS/ANUBIS/T-SIDE/水下夹B.md",
+    "CS/ANUBIS/CT-SIDE/常规默认.md",
     "CS/ANCIENT/T-SIDE/B爆弹.md",
     "CS/ANCIENT/CT-SIDE/常规默认.md",
     "CS/强队Demo/欧美强队/nothing.md",
