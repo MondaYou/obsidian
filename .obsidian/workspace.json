@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Autocad/1.md",
+                "file": "CS/序言.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1"
+              "title": "序言"
             }
           }
         ]
@@ -183,8 +183,9 @@
   },
   "active": "454fbd08b3ae19e9",
   "lastOpenFiles": [
-    "CS/MIRAGE.md",
     "Autocad/1.md",
+    "CS/序言.md",
+    "CS/MIRAGE.md",
     "CS/ANUBIS",
     "CS/INFERNO",
     "CS/CACHE",
