@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/DUSTII/T-SIDE/抢A大.md",
+                "file": "CS/ANUBIS/T-SIDE/水下夹B.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "抢A大"
+              "title": "水下夹B"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/DUSTII/T-SIDE/抢A大.md",
+                "file": "CS/ANUBIS/T-SIDE/水下夹B.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "抢A大 的反向链接列表"
+              "title": "水下夹B 的反向链接列表"
             }
           },
           {
@@ -194,23 +194,30 @@
   },
   "active": "416cb4bfa471d35a",
   "lastOpenFiles": [
-    "CS/DUSTII/T-SIDE/中夹B.md",
+    "CS/ANUBIS/CT-SIDE/常规默认.md",
+    "CS/ANUBIS/T-SIDE/水下夹B.md",
+    "CS/ANCIENT/T-SIDE/B爆弹.md",
+    "CS/ANCIENT/CT-SIDE/常规默认.md",
+    "CS/强队Demo/欧美强队/nothing.md",
+    "CS/强队Demo/国内强队/nothing.md",
     "CS/DUSTII/T-SIDE/抢A大.md",
+    "未命名.md",
+    "CS/强队Demo/欧美强队",
+    "CS/强队Demo/国内强队",
+    "CS/强队Demo",
+    "CS/NUKE/CT-SIDE",
+    "CS/NUKE/T-SIDE",
+    "CS/MIRAGE/CT-SIDE",
+    "CS/MIRAGE/T-SIDE",
+    "CS/INFERNO/CT-SIDE",
+    "CS/INFERNO/T-SIDE",
+    "CS/CACHE/CT-SIDE",
+    "CS/DUSTII/T-SIDE/中夹B.md",
     "CS/DUSTII/T-SIDE/夹A.md",
-    "未命名.base",
     "CS/序言.md",
-    "CS/DUSTII/CT-SIDE",
-    "CS/DUSTII/T-SIDE",
     "CS/DUSTII/T-side.md",
     "Autocad/1.md",
     "CS/MIRAGE.md",
-    "CS/ANUBIS",
-    "CS/INFERNO",
-    "CS/CACHE",
-    "CS/MIRAGE",
-    "DUST II.md",
-    "CS/NUKE",
-    "CS/ANCIENT",
-    "CS/DUSTII"
+    "DUST II.md"
   ]
 }
