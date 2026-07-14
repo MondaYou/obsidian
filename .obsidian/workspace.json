@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e67d19b309bab694",
+        "id": "42fc332abfef68a7",
         "type": "tabs",
         "children": [
           {
-            "id": "416cb4bfa471d35a",
+            "id": "856441ebae1714ed",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/序言.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "序言"
+              "title": "新标签页"
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/序言.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "序言 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
@@ -192,8 +187,10 @@
       "bases:新建数据库": false
     }
   },
-  "active": "416cb4bfa471d35a",
+  "active": "034aa6094aab4ecb",
   "lastOpenFiles": [
+    "未命名.md",
+    "CS/序言.md",
     "CS/NUKE/T-SIDE/科比布莱恩特假外真内千早爱音.md",
     "CS/NUKE/CT-SIDE/常规默认.md",
     "CS/MIRAGE/T-SIDE/B爆弹.md",
@@ -210,7 +207,6 @@
     "CS/强队Demo/欧美强队/nothing.md",
     "CS/强队Demo/国内强队/nothing.md",
     "CS/DUSTII/T-SIDE/抢A大.md",
-    "未命名.md",
     "CS/强队Demo/欧美强队",
     "CS/强队Demo/国内强队",
     "CS/强队Demo",
@@ -223,7 +219,6 @@
     "CS/CACHE/CT-SIDE",
     "CS/DUSTII/T-SIDE/中夹B.md",
     "CS/DUSTII/T-SIDE/夹A.md",
-    "CS/序言.md",
     "CS/DUSTII/T-side.md",
     "Autocad/1.md",
     "CS/MIRAGE.md",
