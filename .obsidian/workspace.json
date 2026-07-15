@@ -11,10 +11,14 @@
             "id": "cee4bae066e9f23d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "type": "markdown",
+              "state": {
+                "file": "CS/INFERNO/小镇道具/小镇道具.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "小镇道具"
             }
           }
         ]
