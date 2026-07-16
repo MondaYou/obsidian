@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/INFERNO/小镇道具/小镇道具.md",
+                "file": "CS/常用道具/常用道具.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "小镇道具"
+              "title": "常用道具"
             }
           }
         ]
@@ -202,32 +202,35 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "be6a43869c1299b6",
+  "active": "034aa6094aab4ecb",
   "lastOpenFiles": [
+    "CS/NUKE/T-SIDE/科比布莱恩特假外真内千早爱音.md",
+    "CS/NUKE/CT-SIDE/常规默认.md",
+    "CS/序言.md",
     "CS/INFERNO/小镇道具/小镇道具.md",
+    "CS/图片素材存放/image1 1.png",
+    "CS/常用道具/常用道具.md",
+    "CS/图片素材存放/image1.png",
+    "未命名.md",
+    "CS/图片素材存放",
+    "未命名",
+    "CS/未命名",
     "image45png.md",
     "CS/强队Demo/国内强队/nothing.md",
-    "CS/INFERNO/小镇道具/image71.png",
-    "CS/INFERNO/小镇道具/image69.png",
-    "CS/INFERNO/小镇道具/image66.png",
-    "CS/INFERNO/小镇道具/image65.png",
-    "CS/INFERNO/小镇道具/image64.png",
-    "CS/INFERNO/小镇道具/image63.png",
-    "CS/INFERNO/小镇道具/image62.png",
+    "CS/图片素材存放/image71.png",
+    "CS/图片素材存放/image69.png",
+    "CS/图片素材存放/image66.png",
+    "CS/图片素材存放/image65.png",
+    "CS/图片素材存放/image64.png",
+    "CS/图片素材存放/image63.png",
+    "CS/图片素材存放/image62.png",
     "CS/ANCIENT/CT-SIDE/常规默认.md",
-    "CS/常用道具/常用道具.md",
-    "CS/INFERNO/小镇道具/image75.png",
-    "CS/INFERNO/小镇道具/image74.png",
-    "CS/INFERNO/小镇道具/image73.png",
+    "CS/图片素材存放/image75.png",
     "CS/INFERNO/小镇道具",
     "CS/小镇道具/小镇道具.md",
     "CS/小镇道具",
-    "CS/序言.md",
     "CS/常用道具",
     "CS/新建文件夹",
-    "CS/NUKE/T-SIDE/科比布莱恩特假外真内千早爱音.md",
-    "未命名.md",
-    "CS/NUKE/CT-SIDE/常规默认.md",
     "CS/MIRAGE/T-SIDE/B爆弹.md",
     "CS/MIRAGE/CT-SIDE/常规默认.md",
     "CS/INFERNO/T-SIDE/B爆弹.md",
@@ -243,9 +246,6 @@
     "CS/强队Demo/欧美强队",
     "CS/强队Demo/国内强队",
     "CS/强队Demo",
-    "CS/NUKE/CT-SIDE",
-    "CS/NUKE/T-SIDE",
-    "CS/MIRAGE/CT-SIDE",
     "CS/DUSTII/T-SIDE/中夹B.md",
     "CS/DUSTII/T-SIDE/夹A.md",
     "CS/DUSTII/T-side.md"
