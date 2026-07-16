@@ -171,13 +171,23 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "be6a43869c1299b6",
+            "type": "leaf",
+            "state": {
+              "type": "claudian-view",
+              "state": {},
+              "icon": "bot",
+              "title": "Claudian"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 538.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -188,10 +198,11 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "bases:新建数据库": false
+      "bases:新建数据库": false,
+      "realclaudian:Open Claudian": false
     }
   },
-  "active": "cee4bae066e9f23d",
+  "active": "be6a43869c1299b6",
   "lastOpenFiles": [
     "CS/INFERNO/小镇道具/小镇道具.md",
     "image45png.md",
