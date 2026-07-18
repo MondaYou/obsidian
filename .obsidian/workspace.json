@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CLAUDE.md",
+                "file": "CS/序言.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CLAUDE"
+              "title": "序言"
             }
           }
         ]
@@ -202,8 +202,9 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "cee4bae066e9f23d",
+  "active": "f288fb8fed7b46d4",
   "lastOpenFiles": [
+    "CLAUDE.md",
     "CS/序言.md",
     "CS/常用道具/常用道具.md",
     "CS/NUKE/T-SIDE/科比布莱恩特假外真内千早爱音.md",
