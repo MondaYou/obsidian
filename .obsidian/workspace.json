@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/常用道具/常用道具.md",
+                "file": "CLAUDE.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "常用道具"
+              "title": "CLAUDE"
             }
           }
         ]
@@ -202,14 +202,14 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "034aa6094aab4ecb",
+  "active": "cee4bae066e9f23d",
   "lastOpenFiles": [
+    "CS/序言.md",
+    "CS/常用道具/常用道具.md",
     "CS/NUKE/T-SIDE/科比布莱恩特假外真内千早爱音.md",
     "CS/NUKE/CT-SIDE/常规默认.md",
-    "CS/序言.md",
     "CS/INFERNO/小镇道具/小镇道具.md",
     "CS/图片素材存放/image1 1.png",
-    "CS/常用道具/常用道具.md",
     "CS/图片素材存放/image1.png",
     "未命名.md",
     "CS/图片素材存放",
