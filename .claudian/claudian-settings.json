@@ -11,7 +11,7 @@
   "mediaFolder": "",
   "systemPrompt": "",
   "persistentExternalContextPaths": [],
-  "sharedEnvironmentVariables": "ANTHROPIC_API_KEY=sk-00c0a7c3cef54f8ca8f8294b53d39bfc\nANTHROPIC_BASE_URL=https://api.deepseek.com/anthropic\nANTHROPIC_MODEL=deepseek-v4-pro\nANTHROPIC_DEFAULT_SONNET_MODEL=deepseek-v4-pro\nANTHROPIC_DEFAULT_HAIKU_MODEL=deepseek-v4-pro\nANTHROPIC_DEFAULT_OPUS_MODEL=deepseek-v4-pro",
+  "sharedEnvironmentVariables": "ANTHROPIC_AUTH_TOKEN=sk-00c0a7c3cef54f8ca8f8294b53d39bfc\nANTHROPIC_API_KEY=sk-00c0a7c3cef54f8ca8f8294b53d39bfc\nANTHROPIC_BASE_URL=https://api.deepseek.com/anthropic\nANTHROPIC_MODEL=deepseek-v4-pro\nANTHROPIC_DEFAULT_SONNET_MODEL=deepseek-v4-pro\nANTHROPIC_DEFAULT_HAIKU_MODEL=deepseek-v4-pro\nANTHROPIC_DEFAULT_OPUS_MODEL=deepseek-v4-pro",
   "envSnippets": [],
   "customContextLimits": {},
   "customModelAliases": {},
@@ -32,7 +32,7 @@
       "enableBangBash": false,
       "customModels": "",
       "lastModel": "haiku",
-      "environmentVariables": "ANTHROPIC_API_KEY=sk-00c0a7c3cef54f8ca8f8294b53d39bfc\nANTHROPIC_BASE_URL=https://api.deepseek.com/anthropic\nANTHROPIC_MODEL=deepseek-v4-pro\nANTHROPIC_DEFAULT_SONNET_MODEL=deepseek-v4-pro\nANTHROPIC_DEFAULT_HAIKU_MODEL=deepseek-v4-pro\nANTHROPIC_DEFAULT_OPUS_MODEL=deepseek-v4-pro",
+      "environmentVariables": "ANTHROPIC_AUTH_TOKEN=sk-00c0a7c3cef54f8ca8f8294b53d39bfc\nANTHROPIC_API_KEY=sk-00c0a7c3cef54f8ca8f8294b53d39bfc\nANTHROPIC_BASE_URL=https://api.deepseek.com/anthropic\nANTHROPIC_MODEL=deepseek-v4-pro\nANTHROPIC_DEFAULT_SONNET_MODEL=deepseek-v4-pro\nANTHROPIC_DEFAULT_HAIKU_MODEL=deepseek-v4-pro\nANTHROPIC_DEFAULT_OPUS_MODEL=deepseek-v4-pro",
       "environmentHash": "ANTHROPIC_BASE_URL=https://api.deepseek.com/anthropic|ANTHROPIC_DEFAULT_HAIKU_MODEL=deepseek-v4-pro|ANTHROPIC_DEFAULT_OPUS_MODEL=deepseek-v4-pro|ANTHROPIC_DEFAULT_SONNET_MODEL=deepseek-v4-pro|ANTHROPIC_MODEL=deepseek-v4-pro"
     },
     "codex": {
@@ -86,7 +86,7 @@
   "savedProviderPermissionMode": {
     "claude": "yolo"
   },
-  "lastCustomModel": "",
+  "lastCustomModel": "claude-code/deepseek-v4-pro",
   "maxTabs": 3,
   "enableAutoScroll": true,
   "deferMathRenderingDuringStreaming": true,

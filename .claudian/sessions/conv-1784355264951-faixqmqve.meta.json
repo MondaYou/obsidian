@@ -1,23 +1,20 @@
 {
   "id": "conv-1784355264951-faixqmqve",
   "providerId": "claude",
-  "title": "你能识别到这个库中的claude",
+  "title": "你能识别到该repo中的claude",
   "titleGenerationStatus": "failed",
   "createdAt": 1784355264962,
-  "updatedAt": 1784355961714,
-  "lastResponseAt": 1784355961714,
-  "sessionId": "6f5e98ed-0c01-4724-bf5b-a5697ec0d844",
-  "selectedModel": "haiku",
-  "providerState": {
-    "providerSessionId": "6f5e98ed-0c01-4724-bf5b-a5697ec0d844"
-  },
+  "updatedAt": 1784357123082,
+  "lastResponseAt": 1784357123082,
+  "sessionId": null,
+  "selectedModel": "claude-code/deepseek-v4-pro",
   "usage": {
-    "model": "claude-code/deepseek-v4-pro",
+    "model": "deepseek-v4-pro",
     "inputTokens": 0,
     "cacheCreationInputTokens": 0,
     "cacheReadInputTokens": 0,
     "contextWindow": 200000,
-    "contextWindowIsAuthoritative": false,
+    "contextWindowIsAuthoritative": true,
     "contextTokens": 0,
     "percentage": 0
   }
