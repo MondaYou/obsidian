@@ -11,12 +11,14 @@
             "id": "cee4bae066e9f23d",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "CS/图片素材存放/Pasted image 20260719161402.png"
+                "file": "CS/INFERNO/T-SIDE/B点进攻道具.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260719161402"
+              "icon": "lucide-file",
+              "title": "B点进攻道具"
             }
           }
         ]
@@ -200,8 +202,9 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "034aa6094aab4ecb",
+  "active": "cee4bae066e9f23d",
   "lastOpenFiles": [
+    "CS/图片素材存放/Pasted image 20260719161402.png",
     "CS/INFERNO/T-SIDE/B点进攻道具.md",
     "CS/图片素材存放/Pasted image 20260719173832.png",
     "CS/图片素材存放/Pasted image 20260719173811.png",
