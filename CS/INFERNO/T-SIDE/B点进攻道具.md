@@ -77,4 +77,12 @@
 ![[Pasted image 20260719172939.png]]
 ![[Pasted image 20260719172953.png]]
 
-## 
+## 三个火投手
+### 一箱火 
+![[Pasted image 20260719173757.png]]
+
+### 二箱火
+![[Pasted image 20260719173811.png]]
+
+### 三箱火
+![[Pasted image 20260719173832.png]]
